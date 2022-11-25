@@ -1,4 +1,4 @@
-key_codes_2 = {
+key_codes_js = {
     0: "These keys do not have a key code",
     3: "break",
     8: "backspace / delete",
